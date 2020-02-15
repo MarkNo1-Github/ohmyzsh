@@ -1,0 +1,3 @@
+[submodule "plugins/installer"]
+	path = plugins/installer
+	url = https://github.com/MarkNo1-Github/installer.git

@@ -1,8 +1,11 @@
 [submodule "plugins/network"]
-	path = plugins/network
+	path = custom/plugins/network
 	url = https://github.com/MarkNo1-Github/network.git
 	ignore = dirty
 [submodule "plugins/installer"]
-	path = plugins/installer
+	path = custom/plugins/installer
 	url = https://github.com/MarkNo1-Github/installer.git
 	ignore = dirty
+[submodule "themes/powerlevel10k"]
+	path = custom/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git

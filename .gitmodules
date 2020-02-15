@@ -1,6 +1,8 @@
-[submodule "plugins/installer"]
-	path = plugins/installer
-	url = https://github.com/MarkNo1-Github/installer.git
 [submodule "plugins/network"]
 	path = plugins/network
 	url = https://github.com/MarkNo1-Github/network.git
+	ignore = dirty
+[submodule "plugins/installer"]
+	path = plugins/installer
+	url = https://github.com/MarkNo1-Github/installer.git
+	ignore = dirty

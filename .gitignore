@@ -3,4 +3,4 @@ cache/
 log/
 *.swp
 .DS_Store
-
+themes/powerlevel10k

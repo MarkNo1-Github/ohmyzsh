@@ -1,0 +1,9 @@
+[submodule "custom/plugins/sub_installer"]
+	path = custom/plugins/sub_installer
+	url = https://github.com/MarkNo1-Github/installer.git
+[submodule "custom/plugins/sub_network"]
+	path = custom/plugins/sub_network
+	url = https://github.com/MarkNo1-Github/network.git
+[submodule "custom/themes/sub_powerlevel10k"]
+	path = custom/themes/sub_powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git

@@ -8,7 +8,7 @@
 	path = custom/theme/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
 [submodule "custom/plugins/private"]
-	path = custom/plugins/private
+	path = custom/plugins/mark-private
 	url = https://github.com/MarkNo1-Github/private.git
 [submodule "custom/plugins/zsh-autosuggestions"]
 	path = custom/plugins/zsh-autosuggestions

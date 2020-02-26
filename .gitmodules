@@ -16,3 +16,9 @@
 [submodule "custom/plugins/zsh-syntax-highlighting"]
 	path = custom/plugins/zsh-syntax-highlighting
 	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "custom/plugins/mark-passwords"]
+	path = custom/plugins/mark-passw
+	url = git@github.com:MarkNo1-Github/mark-passwords.git
+[submodule "custom/plugins/mark-lib"]
+	path = custom/plugins/mark-common
+	url = git@github.com:MarkNo1-Github/mark-lib.git
